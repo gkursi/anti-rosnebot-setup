@@ -1,6 +1,9 @@
-# Download and Install Rosnebots
+A fork of rosnehook designed to kill other (rosne/cathook based) bots.
 
-    git clone https://github.com/rosneburgerworks/rosnebot-setup; cd rosnebot-setup; ./install-catbots; ./update; cd .
+
+# Download and Install (anti) Rosnebots
+
+    git clone https://github.com/gkursi/anti-rosnebot-setup; cd anti-rosnebot-setup; ./install-catbots; ./update; cd .
     
 Next you will have to edit the text document called accounts.txt in your catbot-setup folder and put the bots accounts in this format:
 
